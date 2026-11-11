@@ -1,0 +1,3 @@
+# No third-party packages are required.
+# The agent uses only the Python 3.9+ standard library and talks to the local
+# Ollama server over HTTP (http://127.0.0.1:11434).
