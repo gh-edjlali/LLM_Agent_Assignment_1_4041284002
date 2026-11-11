@@ -1,2 +1,0 @@
-# No third-party packages.
-# The agent uses the Python standard library and a local Ollama server.
